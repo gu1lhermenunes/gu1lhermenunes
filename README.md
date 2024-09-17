@@ -1,0 +1,1 @@
+- wisemc.com.br
