@@ -12,3 +12,5 @@ public void dev() {
     String[] languages = {"LUA", "Java", "CSharp", "C++", "C", "JavaScript", "Flask", "PHP", "Node.js", "Python"};
 }
 ```
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121785843552632904)](https://discord.com/users/1121785843552632904)
