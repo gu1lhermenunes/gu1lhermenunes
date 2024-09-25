@@ -2,11 +2,10 @@
 
 ## Skills
 ```java
-function dev() {
- const name = "Guilherme Nunes" 
- const stack = "Fullstack"
- 
- const languages = ["Java", "Python", "JavaScript", "TypeScript",
- "HTML", "CSS", "PHP", "C", "C#", "C++", "Go"]
+public void dev() {
+    String name = "Guilherme Nunes"; 
+    String stack = "Backend";
+    
+    String[] languages = {"LUA", "Java", "CSharp", "C++", "C", "JavaScript", "Flask", "PHP", "Node.js", "Python"};
 }
 ```
